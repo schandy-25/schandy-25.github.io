@@ -34,7 +34,6 @@ highlighter: rouge
 
 # --- Optional site settings ---
 plugins:
-  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-feed
 
